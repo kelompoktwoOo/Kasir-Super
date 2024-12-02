@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "270969424459",
+    "project_id": "kasir-super-cfa8d",
+    "storage_bucket": "kasir-super-cfa8d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270969424459:android:3be60e190a968a9e091bce",
+        "android_client_info": {
+          "package_name": "com.kelompoktwoo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv9N7A3mb4To2z8m33HWu4nry52q2q4R8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270969424459:android:8d362344969c4e47091bce",
+        "android_client_info": {
+          "package_name": "om.kelompoktwoo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv9N7A3mb4To2z8m33HWu4nry52q2q4R8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

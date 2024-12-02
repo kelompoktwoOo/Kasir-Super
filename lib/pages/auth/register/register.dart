@@ -1,0 +1,1 @@
+export 'pages/register_view.dart';
